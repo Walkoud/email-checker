@@ -1,4 +1,4 @@
-
+print('test réussi')
 
 print(mydb)
 cursor = mydb.cursor()
